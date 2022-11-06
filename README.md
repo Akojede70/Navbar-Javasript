@@ -7,3 +7,8 @@ The navbar project was shown in the front page of the websit and as a link of Ho
 
 
 ![Screenshot (314)](https://user-images.githubusercontent.com/88320958/200163205-3bcd09ec-11b9-4bfb-8d2e-95669b80d2ce.png)
+
+
+
+
+![Screenshot (316)](https://user-images.githubusercontent.com/88320958/200163279-7f5fa21a-dc73-4345-a8a7-ec9387f83ced.png)
